@@ -1,4 +1,4 @@
-# Three.js Journey
+# <center>Three.js Journey: 1.04-Webpack</center>
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,3 +14,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+[Go Home](/../../ThreeJSJourney)

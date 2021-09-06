@@ -1,4 +1,4 @@
-# <center>Three.js Journey: 1.05-Transform-objects</center>
+# <center>Three.js Journey: 1.03-basic-scene</center>
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
